@@ -4,8 +4,8 @@ A program to use image recognition to scan various chessboards from various angl
 ## Examples
 Here are some examples of running the algorithm on a few different chess boards.
 
-Output as a result from piece detection
-[](https://i.ibb.co/Xy7jf18/unknown.png)
+Output as a result from piece detection\
+![](https://i.ibb.co/Xy7jf18/unknown.png)
 
 Canny Edge Detection
 ![](https://i.ibb.co/NZJy6G5/unknown.png)
